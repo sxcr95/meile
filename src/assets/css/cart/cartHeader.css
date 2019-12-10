@@ -1,0 +1,58 @@
+.ant-page-header {
+    height: 47px;
+    border-bottom: 1px solid #d8d8d8;
+}
+
+.ant-page-header {
+    padding: 0;
+}
+
+.ant-page-header-back {
+    margin: 0;
+    margin-left: 16px;
+    line-height: 47px;
+}
+
+.ant-page-header-heading {
+    width: 100%;
+}
+
+.ant-page-header-heading-title {
+    width: 70%;
+    height: 100%;
+    font-size: 18px;
+    padding: 0;
+    line-height: 47px;
+    margin-left: 30px;
+    font-weight: normal;
+    display: inline-block;
+    text-align: center !important;
+}
+
+.ant-page-header-heading-extra {
+    display: inline-block;
+    width: 30px;
+    float: right;
+    padding: 0;
+    margin-right: 10px;
+}
+
+.ant-btn {
+    padding: 3px 6px;
+    background: #fff;
+    border: none;
+}
+
+.login-btn {
+    width: 48px;
+    height: 23px;
+    border: 1px solid #da0000;
+    font-size: 14px;
+    color: #da0000;
+    margin-right: 3px;
+}
+
+.login-btn:hover {
+    border: 1px solid #da0000;
+    color: #da0000;
+}

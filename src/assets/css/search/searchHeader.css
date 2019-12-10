@@ -1,0 +1,42 @@
+.ant-input-search {
+    width: 305px;
+}
+
+.ant-input-wrapper {
+    width: 305px;
+    position: relative;
+    left: 11px;
+}
+
+.ant-input-group-addon {
+    background: #fff;
+}
+
+.ant-input,
+.ant-btn {
+    margin-top: 10px;
+}
+
+.ant-input:hover {
+    border-color: #d9d9d9;
+    border-right-width: none;
+}
+
+.ant-btn {
+    background: #f0f0f0;
+    border-color: #d9d9d9;
+}
+
+.anticon {
+    width: 16px;
+    height: 16px;
+    color: #666;
+}
+
+.annuler {
+    display: inline-block;
+    position: relative;
+    left: 20px;
+    top: -5px;
+    font-size: 18px;
+}

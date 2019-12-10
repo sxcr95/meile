@@ -1,0 +1,21 @@
+.searchHeader {
+    background: #fff;
+    padding: 0;
+    height: 52px;
+}
+
+.searchContent {
+    height: 412px;
+}
+
+.searchFooter {
+    background: #fff;
+}
+
+.footer-img {
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    left: 15px;
+    bottom: 30px;
+}
